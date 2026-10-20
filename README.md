@@ -6,6 +6,8 @@ This project focuses on analyzing customer shopping behaviour to uncover insight
 
 Using **Python, Pandas, PostgreSQL, SQL, and Power BI**, the project combines data cleaning, exploratory data analysis, business-focused SQL queries, and interactive dashboard visualization to support data-driven decision-making.
 
+<img width="1163" height="657" alt="image" src="https://github.com/user-attachments/assets/e6c9a57e-0d83-4cb5-b791-6b9a5de0ce7c" />
+
 ## 🎯 Project Objectives
 
 - Analyze customer spending patterns across different demographics.
