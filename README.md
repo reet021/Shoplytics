@@ -1,4 +1,4 @@
-# Customer Shopping Behaviour Analysis
+# Shoplytics
 
 ## 📌 Project Overview
 
